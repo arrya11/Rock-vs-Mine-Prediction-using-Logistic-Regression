@@ -7,5 +7,3 @@ This project uses a sonar signal dataset to classify objects as rocks or mines u
 - Train-test split with accuracy evaluation
 - Dataset: UCI Sonar Dataset
 - Tools: Python, pandas, scikit-learn, Google Colab
-
-## Accuracy: 89%
